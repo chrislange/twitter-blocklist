@@ -1,5 +1,5 @@
 # Twitter Blocklist
-Are you sick of all the spam bot Twitter accounts that follow you and comment on your tweets with garbage? Simply download and import the *twitter-blocklist.csv* to block some of the common spam accounts that have yet to be taken down by Twitter.
+Are you sick of all the spam bot Twitter accounts that follow you and comment on your tweets with garbage? Simply download and import the [twitter-blocklist.csv](https://github.com/chrislange/twitter-blocklist/blob/master/twitter-blocklist.csv) to block some of the common spam accounts that have yet to be taken down by Twitter.
 
 ## How to import the list
 Please refer to the [Twitter documentation](https://help.twitter.com/en/using-twitter/advanced-twitter-block-options) for help with importing the list.
